@@ -1,0 +1,16 @@
+C:\EDP\with C#\ConsoleString\bin\Debug\ConsoleString.exe.config
+C:\EDP\with C#\ConsoleString\bin\Debug\ConsoleString.exe
+C:\EDP\with C#\ConsoleString\bin\Debug\ConsoleString.pdb
+C:\EDP\with C#\ConsoleString\obj\Debug\ConsoleString.csproj.AssemblyReference.cache
+C:\EDP\with C#\ConsoleString\obj\Debug\ConsoleString.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\ConsoleString\obj\Debug\ConsoleString.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\ConsoleString\obj\Debug\ConsoleString.exe
+C:\EDP\with C#\ConsoleString\obj\Debug\ConsoleString.pdb
+C:\EDP\with C#\lab 5\bin\Debug\ConsoleString.exe.config
+C:\EDP\with C#\lab 5\bin\Debug\ConsoleString.exe
+C:\EDP\with C#\lab 5\bin\Debug\ConsoleString.pdb
+C:\EDP\with C#\lab 5\obj\Debug\ConsoleString.csproj.AssemblyReference.cache
+C:\EDP\with C#\lab 5\obj\Debug\ConsoleString.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\lab 5\obj\Debug\ConsoleString.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\lab 5\obj\Debug\ConsoleString.exe
+C:\EDP\with C#\lab 5\obj\Debug\ConsoleString.pdb

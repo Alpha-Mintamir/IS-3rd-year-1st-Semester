@@ -1,0 +1,17 @@
+C:\EDP\Project\Login page\project 2 Scientific Calculator\bin\Debug\net6.0-windows\project 2 Scientific Calculator.exe
+C:\EDP\Project\Login page\project 2 Scientific Calculator\bin\Debug\net6.0-windows\project 2 Scientific Calculator.deps.json
+C:\EDP\Project\Login page\project 2 Scientific Calculator\bin\Debug\net6.0-windows\project 2 Scientific Calculator.runtimeconfig.json
+C:\EDP\Project\Login page\project 2 Scientific Calculator\bin\Debug\net6.0-windows\project 2 Scientific Calculator.dll
+C:\EDP\Project\Login page\project 2 Scientific Calculator\bin\Debug\net6.0-windows\project 2 Scientific Calculator.pdb
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project 2 Scientific Calculator.csproj.AssemblyReference.cache
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project_2_Scientific_Calculator.Form1.resources
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project 2 Scientific Calculator.csproj.GenerateResource.cache
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project 2 Scientific Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project 2 Scientific Calculator.AssemblyInfoInputs.cache
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project 2 Scientific Calculator.AssemblyInfo.cs
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project 2 Scientific Calculator.csproj.CoreCompileInputs.cache
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project 2 Scientific Calculator.dll
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\refint\project 2 Scientific Calculator.dll
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project 2 Scientific Calculator.pdb
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\project 2 Scientific Calculator.genruntimeconfig.cache
+C:\EDP\Project\Login page\project 2 Scientific Calculator\obj\Debug\net6.0-windows\ref\project 2 Scientific Calculator.dll

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\FileStream\FileStream\bin\Debug\FileStream.exe.config
+C:\Users\HP\source\repos\FileStream\FileStream\bin\Debug\FileStream.exe
+C:\Users\HP\source\repos\FileStream\FileStream\bin\Debug\FileStream.pdb
+C:\Users\HP\source\repos\FileStream\FileStream\obj\Debug\FileStream.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FileStream\FileStream\obj\Debug\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FileStream\FileStream\obj\Debug\FileStream.exe
+C:\Users\HP\source\repos\FileStream\FileStream\obj\Debug\FileStream.pdb

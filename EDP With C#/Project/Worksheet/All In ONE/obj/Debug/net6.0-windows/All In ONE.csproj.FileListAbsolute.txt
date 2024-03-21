@@ -1,0 +1,18 @@
+C:\EDP\Project\Worksheet\All In ONE\bin\Debug\net6.0-windows\All In ONE.exe
+C:\EDP\Project\Worksheet\All In ONE\bin\Debug\net6.0-windows\All In ONE.dll
+C:\EDP\Project\Worksheet\All In ONE\bin\Debug\net6.0-windows\All In ONE.deps.json
+C:\EDP\Project\Worksheet\All In ONE\bin\Debug\net6.0-windows\All In ONE.runtimeconfig.json
+C:\EDP\Project\Worksheet\All In ONE\bin\Debug\net6.0-windows\All In ONE.pdb
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All In ONE.csproj.AssemblyReference.cache
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All_In_ONE.Form1.resources
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All_In_ONE.Properties.Resources.resources
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All In ONE.csproj.GenerateResource.cache
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All In ONE.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All In ONE.AssemblyInfoInputs.cache
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All In ONE.AssemblyInfo.cs
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All In ONE.csproj.CoreCompileInputs.cache
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All In ONE.dll
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\refint\All In ONE.dll
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All In ONE.pdb
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\All In ONE.genruntimeconfig.cache
+C:\EDP\Project\Worksheet\All In ONE\obj\Debug\net6.0-windows\ref\All In ONE.dll

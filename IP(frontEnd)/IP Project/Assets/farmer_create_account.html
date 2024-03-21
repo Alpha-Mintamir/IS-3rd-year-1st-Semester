@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/CSS/farmer_create_account.css">
+  <title>Farmer Account Creation</title>
+</head>
+
+<body>
+
+  <div class="container mt-5">
+    <h2>Farmer Account Creation</h2>
+    <form>
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="firstName">First Name</label>
+          <input type="text" class="form-control" id="firstName" placeholder="Enter your first name" required>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="lastName">Last Name</label>
+          <input type="text" class="form-control" id="lastName" placeholder="Enter your last name" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="phoneNumber">Phone Number</label>
+          <input type="text" class="form-control" id="phoneNumber" placeholder="Enter your phone number" required>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="emailAddress">Email Address</label>
+          <input type="email" class="form-control" id="emailAddress" placeholder="Enter your email address" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="password">Password</label>
+          <input type="password" class="form-control" id="password" placeholder="Enter your password" required>
+        </div>
+        <div class="form-group col-md-6">
+          <label>Gender</label>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="gender" id="male" value="male" checked>
+            <label class="form-check-label" for="male">
+              Male
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="gender" id="female" value="female">
+            <label class="form-check-label" for="female">
+              Female
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="region">Region</label>
+          <select class="form-control" id="region" required onchange="updateCities()">
+            <option value="">Select Region</option>
+            <option value="amhara">Amhara</option>
+            <option value="oromia">Oromia</option>
+            <option value="sidama">Sidama</option>
+            <option value="snnpr">SNNPR</option>
+          </select>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="city">City</label>
+          <select class="form-control" id="city" required>
+            <option value="">Select City</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="product">Preferred Product</label>
+        <select class="form-control" id="product" required>
+          <option value="">Select Product</option>
+          <option value="coffee">Coffee (Buna)</option>
+          <option value="khat">Khat (Chat)</option>
+          <option value="selit">Selit</option>
+        </select>
+      </div>
+
+      <button type="submit" class="btn btn-primary" id="farmer_create_account">Create Account</button>
+    </form>
+  </div>
+
+  <!-- Bootstrap JS and Popper.js -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  <script src="/JS/script.js"></script>
+  <script src="/JS/farmer_create_account.js"></script>
+
+
+</body>
+
+</html>

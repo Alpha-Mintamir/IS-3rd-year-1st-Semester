@@ -1,0 +1,25 @@
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\login Page.exe
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\login Page.deps.json
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\login Page.runtimeconfig.json
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\login Page.dll
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\login Page.pdb
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\EDP\Project\Login page\login Page\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.csproj.AssemblyReference.cache
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login_Page.Form1.resources
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login_Page.Form2.resources
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.csproj.GenerateResource.cache
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.AssemblyInfoInputs.cache
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.AssemblyInfo.cs
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.csproj.CoreCompileInputs.cache
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.csproj.CopyComplete
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.dll
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\refint\login Page.dll
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.pdb
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\login Page.genruntimeconfig.cache
+C:\EDP\Project\Login page\login Page\obj\Debug\net6.0-windows\ref\login Page.dll

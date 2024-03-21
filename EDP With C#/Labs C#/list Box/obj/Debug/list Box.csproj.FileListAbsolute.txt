@@ -1,0 +1,11 @@
+C:\EDP\with C#\list Box\bin\Debug\list Box.exe.config
+C:\EDP\with C#\list Box\bin\Debug\list Box.exe
+C:\EDP\with C#\list Box\bin\Debug\list Box.pdb
+C:\EDP\with C#\list Box\obj\Debug\list Box.csproj.AssemblyReference.cache
+C:\EDP\with C#\list Box\obj\Debug\list Box.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\list Box\obj\Debug\list_Box.Form1.resources
+C:\EDP\with C#\list Box\obj\Debug\list_Box.Properties.Resources.resources
+C:\EDP\with C#\list Box\obj\Debug\list Box.csproj.GenerateResource.cache
+C:\EDP\with C#\list Box\obj\Debug\list Box.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\list Box\obj\Debug\list Box.exe
+C:\EDP\with C#\list Box\obj\Debug\list Box.pdb

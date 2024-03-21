@@ -1,0 +1,11 @@
+C:\EDP\with C#\Linklable\bin\Debug\Linklable.exe.config
+C:\EDP\with C#\Linklable\bin\Debug\Linklable.exe
+C:\EDP\with C#\Linklable\bin\Debug\Linklable.pdb
+C:\EDP\with C#\Linklable\obj\Debug\Linklable.csproj.AssemblyReference.cache
+C:\EDP\with C#\Linklable\obj\Debug\Linklable.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\Linklable\obj\Debug\Linklable.Form1.resources
+C:\EDP\with C#\Linklable\obj\Debug\Linklable.Properties.Resources.resources
+C:\EDP\with C#\Linklable\obj\Debug\Linklable.csproj.GenerateResource.cache
+C:\EDP\with C#\Linklable\obj\Debug\Linklable.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\Linklable\obj\Debug\Linklable.exe
+C:\EDP\with C#\Linklable\obj\Debug\Linklable.pdb

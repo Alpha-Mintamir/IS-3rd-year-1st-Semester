@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/CSS/farmer_profile.css"> <!-- Link to your external CSS file -->
+    <title>Farmer Profile</title>
+</head>
+
+<body>
+
+    <div class="container mt-5 profile-container">
+        <div class="profile-header">
+            <h2>Farmer Profile</h2>
+        </div>
+
+        <div class="profile-image">
+            <!-- Add your profile image source here -->
+            <img src="/Images/profile picture.jpg" alt="Profile Image">
+        </div>
+
+        <div class="profile-details">
+            <h3>John Doe</h3>
+            <p>Email: john.doe@example.com</p>
+            <p>Location: Farmville, USA</p>
+            <p>Phone Number: 123-456-7890</p>
+            <p>Gender: Male</p>
+            <p>Region: Amhara</p>
+            <p>City: Sample City</p>
+            <p>Preferred Product: Coffee</p>
+            <!-- Additional profile details -->
+            <p>Age: 30</p>
+            <p>Experience: 50 years in farming</p>
+            <!-- Add more profile details as needed -->
+
+            <button class="btn btn-edit-profile">Detail</button>
+        </div>
+
+        <!-- Detailed info section initially hidden -->
+        <div id="detailed-info-section" class="d-none">
+            <h4>Detailed Information</h4>
+            <p>Age: 30</p>
+            <p>Experience: <span id="experience-value">50</span> years in farming</p>
+            <!-- Add more detailed info as needed -->
+        </div>
+
+        <!-- Skills section initially hidden -->
+        <div id="skills-section" class="d-none">
+            <h4>Skills</h4>
+            <p>Crop Cultivation</p>
+            <p>Soil Management</p>
+            <p>Pest Control</p>
+            <!-- Add more skills as needed -->
+        </div>
+
+        <!-- Toggle Skills button -->
+        <button id="toggle-skills" class="btn btn-secondary">Toggle Skills</button>
+
+        <!-- Experience progress bar -->
+        <div class="progress mt-3">
+            <div id="experience-progress" class="progress-bar bg-success" role="progressbar" style="width: 50%"
+                aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="/JS/farmer_profile.js"></script> <!-- Link to your external JavaScript file -->
+
+</body>
+
+</html>

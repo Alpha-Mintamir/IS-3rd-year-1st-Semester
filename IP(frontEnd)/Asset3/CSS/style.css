@@ -1,0 +1,35 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 8fr 1fr;
+    grid-template-rows: 1.5fr 7fr 1.5fr;
+    grid-template-areas: 
+    "Left ColumnMiddle Right"
+    "Top RowMiddle Bottom"
+    ;
+
+}
+
+
+
+.Left{
+    background-color: aqua;
+}
+
+.Right{
+    background-color: blueviolet;
+}
+
+.ColumnMiddle{
+    background-color: beige;
+}
+
+.Top{
+    background-color: black;
+}
+
+.Bottom{
+    background-color: red;
+}
+.RowMiddle{
+    background-color: blue;
+}

@@ -1,0 +1,17 @@
+C:\EDP\with C#\first GUI\bin\Debug\net6.0-windows\first GUI.exe
+C:\EDP\with C#\first GUI\bin\Debug\net6.0-windows\first GUI.deps.json
+C:\EDP\with C#\first GUI\bin\Debug\net6.0-windows\first GUI.runtimeconfig.json
+C:\EDP\with C#\first GUI\bin\Debug\net6.0-windows\first GUI.dll
+C:\EDP\with C#\first GUI\bin\Debug\net6.0-windows\first GUI.pdb
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first GUI.csproj.AssemblyReference.cache
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first_GUI.one.resources
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first GUI.csproj.GenerateResource.cache
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first GUI.AssemblyInfoInputs.cache
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first GUI.AssemblyInfo.cs
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first GUI.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first GUI.dll
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\refint\first GUI.dll
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first GUI.pdb
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\first GUI.genruntimeconfig.cache
+C:\EDP\with C#\first GUI\obj\Debug\net6.0-windows\ref\first GUI.dll

@@ -1,0 +1,18 @@
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL IN ONE.csproj.AssemblyReference.cache
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL_IN_ONE.Form1.resources
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL_IN_ONE.Properties.Resources.resources
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL IN ONE.csproj.GenerateResource.cache
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL IN ONE.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL IN ONE.AssemblyInfoInputs.cache
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL IN ONE.AssemblyInfo.cs
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL IN ONE.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\ALL IN ONE\bin\Debug\net6.0-windows\ALL IN ONE.exe
+C:\EDP\with C#\ALL IN ONE\bin\Debug\net6.0-windows\ALL IN ONE.deps.json
+C:\EDP\with C#\ALL IN ONE\bin\Debug\net6.0-windows\ALL IN ONE.runtimeconfig.json
+C:\EDP\with C#\ALL IN ONE\bin\Debug\net6.0-windows\ALL IN ONE.dll
+C:\EDP\with C#\ALL IN ONE\bin\Debug\net6.0-windows\ALL IN ONE.pdb
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL IN ONE.dll
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\refint\ALL IN ONE.dll
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL IN ONE.pdb
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ALL IN ONE.genruntimeconfig.cache
+C:\EDP\with C#\ALL IN ONE\obj\Debug\net6.0-windows\ref\ALL IN ONE.dll

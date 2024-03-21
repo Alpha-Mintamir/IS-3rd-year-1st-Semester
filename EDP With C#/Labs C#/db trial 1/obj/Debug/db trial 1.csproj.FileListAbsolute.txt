@@ -1,0 +1,11 @@
+C:\EDP\with C#\db trial 1\bin\Debug\db trial 1.exe.config
+C:\EDP\with C#\db trial 1\bin\Debug\db trial 1.exe
+C:\EDP\with C#\db trial 1\bin\Debug\db trial 1.pdb
+C:\EDP\with C#\db trial 1\obj\Debug\db trial 1.csproj.AssemblyReference.cache
+C:\EDP\with C#\db trial 1\obj\Debug\db trial 1.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\db trial 1\obj\Debug\db_trial_1.Form1.resources
+C:\EDP\with C#\db trial 1\obj\Debug\db_trial_1.Properties.Resources.resources
+C:\EDP\with C#\db trial 1\obj\Debug\db trial 1.csproj.GenerateResource.cache
+C:\EDP\with C#\db trial 1\obj\Debug\db trial 1.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\db trial 1\obj\Debug\db trial 1.exe
+C:\EDP\with C#\db trial 1\obj\Debug\db trial 1.pdb

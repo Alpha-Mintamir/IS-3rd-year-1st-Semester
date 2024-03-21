@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    border-style: solid;
+    border-spacing: 2px; /* Assuming you meant pixels for border-spacing */
+    grid-template-columns: 1fr 1fr 1fr; /* Each block takes up 1/3 of the grid */
+    grid-template-areas: 
+        "block-1 block-2 block-3"; /* Defining grid areas using grid-template-areas */
+}
+
+
+.block-1{
+    grid-template-rows: 1fr;
+}

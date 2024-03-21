@@ -1,0 +1,11 @@
+C:\EDP\with C#\check box\bin\Debug\check box.exe.config
+C:\EDP\with C#\check box\bin\Debug\check box.exe
+C:\EDP\with C#\check box\bin\Debug\check box.pdb
+C:\EDP\with C#\check box\obj\Debug\check box.csproj.AssemblyReference.cache
+C:\EDP\with C#\check box\obj\Debug\check box.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\check box\obj\Debug\check_box.Form1.resources
+C:\EDP\with C#\check box\obj\Debug\check_box.Properties.Resources.resources
+C:\EDP\with C#\check box\obj\Debug\check box.csproj.GenerateResource.cache
+C:\EDP\with C#\check box\obj\Debug\check box.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\check box\obj\Debug\check box.exe
+C:\EDP\with C#\check box\obj\Debug\check box.pdb

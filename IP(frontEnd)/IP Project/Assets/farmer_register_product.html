@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/CSS/product_registration.css">
+  <title>Product Registration</title>
+</head>
+
+<body>
+
+  <div class="container mt-5">
+    <h2>Product Registration</h2>
+    <form>
+      <div class="form-group">
+        <label for="product">Product</label>
+        <select class="form-control" id="product" required>
+          <option value="coffee">Coffee</option>
+          <option value="khat">Khat</option>
+          <option value="selit">Selit</option>
+        </select>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="quantity">Quantity</label>
+          <input type="number" class="form-control" id="quantity" placeholder="Enter quantity" required>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="amountPerKg">Amount per Kilogram</label>
+          <input type="number" class="form-control" id="amountPerKg" placeholder="Enter amount per kilogram" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="qualityLevel">Quality Level</label>
+        <select class="form-control" id="qualityLevel" required>
+          <option value="level1">Level 1</option>
+          <option value="level2">Level 2</option>
+          <option value="level3">Level 3</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="location">Location</label>
+        <input type="text" class="form-control" id="location" placeholder="Enter location" required>
+      </div>
+
+      <div class="form-group">
+        <label for="dateUpto">Product Available Up To</label>
+        <input type="date" class="form-control" id="dateUpto" required>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Register Product</button>
+    </form>
+  </div>
+
+  <!-- Bootstrap JS and Popper.js -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

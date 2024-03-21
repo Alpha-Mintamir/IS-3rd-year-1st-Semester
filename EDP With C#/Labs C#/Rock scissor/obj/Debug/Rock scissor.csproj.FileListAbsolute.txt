@@ -1,0 +1,11 @@
+C:\EDP\with C#\Rock scissor\bin\Debug\Rock scissor.exe.config
+C:\EDP\with C#\Rock scissor\bin\Debug\Rock scissor.exe
+C:\EDP\with C#\Rock scissor\bin\Debug\Rock scissor.pdb
+C:\EDP\with C#\Rock scissor\obj\Debug\Rock scissor.csproj.AssemblyReference.cache
+C:\EDP\with C#\Rock scissor\obj\Debug\Rock scissor.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\Rock scissor\obj\Debug\Rock_scissor.Form1.resources
+C:\EDP\with C#\Rock scissor\obj\Debug\Rock_scissor.Properties.Resources.resources
+C:\EDP\with C#\Rock scissor\obj\Debug\Rock scissor.csproj.GenerateResource.cache
+C:\EDP\with C#\Rock scissor\obj\Debug\Rock scissor.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\Rock scissor\obj\Debug\Rock scissor.exe
+C:\EDP\with C#\Rock scissor\obj\Debug\Rock scissor.pdb

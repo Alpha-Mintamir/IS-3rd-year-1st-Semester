@@ -1,0 +1,39 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ffffff; /* White container background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h2 {
+    text-align: center;
+    color: #007bff; /* Bootstrap primary color */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #28a745; /* Bootstrap success color */
+    border-color: #28a745;
+}
+
+.btn-primary:hover {
+    background-color: #218838; /* Darker shade on hover */
+}
+
+/* Optional: Add a bit of space above the "Don't have an account?" link */
+.mt-3 {
+    margin-top: 15px;
+}

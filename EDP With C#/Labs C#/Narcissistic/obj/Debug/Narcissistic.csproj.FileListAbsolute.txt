@@ -1,0 +1,11 @@
+C:\EDP\with C#\Narcissistic\bin\Debug\Narcissistic.exe.config
+C:\EDP\with C#\Narcissistic\bin\Debug\Narcissistic.exe
+C:\EDP\with C#\Narcissistic\bin\Debug\Narcissistic.pdb
+C:\EDP\with C#\Narcissistic\obj\Debug\Narcissistic.csproj.AssemblyReference.cache
+C:\EDP\with C#\Narcissistic\obj\Debug\Narcissistic.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\Narcissistic\obj\Debug\Narcissistic.Form.resources
+C:\EDP\with C#\Narcissistic\obj\Debug\Narcissistic.Properties.Resources.resources
+C:\EDP\with C#\Narcissistic\obj\Debug\Narcissistic.csproj.GenerateResource.cache
+C:\EDP\with C#\Narcissistic\obj\Debug\Narcissistic.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\Narcissistic\obj\Debug\Narcissistic.exe
+C:\EDP\with C#\Narcissistic\obj\Debug\Narcissistic.pdb

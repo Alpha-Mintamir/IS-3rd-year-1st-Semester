@@ -1,0 +1,8 @@
+C:\EDP\with C#\db practice 3\bin\Debug\db practice 3.exe.config
+C:\EDP\with C#\db practice 3\bin\Debug\db practice 3.exe
+C:\EDP\with C#\db practice 3\bin\Debug\db practice 3.pdb
+C:\EDP\with C#\db practice 3\obj\Debug\db practice 3.csproj.AssemblyReference.cache
+C:\EDP\with C#\db practice 3\obj\Debug\db practice 3.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\db practice 3\obj\Debug\db practice 3.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\db practice 3\obj\Debug\db practice 3.exe
+C:\EDP\with C#\db practice 3\obj\Debug\db practice 3.pdb

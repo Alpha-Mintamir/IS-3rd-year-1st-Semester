@@ -1,0 +1,3 @@
+C:\EDP\Project\Login page\exam prep\obj\Release\exam prep.csproj.AssemblyReference.cache
+C:\EDP\Project\Login page\exam prep\obj\Release\exam prep.csproj.SuggestedBindingRedirects.cache
+C:\EDP\Project\Login page\exam prep\obj\Release\exam prep.csproj.CoreCompileInputs.cache

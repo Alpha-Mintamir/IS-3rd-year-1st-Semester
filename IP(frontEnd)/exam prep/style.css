@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.grid-container {
+  display: grid;
+  grid-template: 
+  "header header" 80px
+  "sidebar main" 1fr
+  "footer footer" 50px
+  /200px 1fr;
+  grid-gap: 10px;
+  min-height: 100vh;
+}
+
+.item {
+  background-color: #3498db;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.header {
+  grid-area: header;
+}
+
+.sidebar {
+  grid-area: sidebar;
+}
+
+.main {
+  grid-area: main;
+}
+
+.footer {
+  grid-area: footer;
+}

@@ -1,0 +1,21 @@
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\bin\Debug\Scientific_Calculator_WithC#.exe.config
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\bin\Debug\Scientific_Calculator_WithC#.exe
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\bin\Debug\Scientific_Calculator_WithC#.pdb
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC_.Form1.resources
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC_.Properties.Resources.resources
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.exe
+C:\Users\HP\source\repos\Scientific_Calculator_WithC#\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.pdb
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\bin\Debug\Scientific_Calculator_WithC#.exe.config
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\bin\Debug\Scientific_Calculator_WithC#.exe
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\bin\Debug\Scientific_Calculator_WithC#.pdb
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.csproj.AssemblyReference.cache
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.csproj.SuggestedBindingRedirects.cache
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC_.Form1.resources
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC_.Properties.Resources.resources
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.csproj.GenerateResource.cache
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.csproj.CoreCompileInputs.cache
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.exe
+C:\EDP\Project\Sci calculator\Scientific_Calculator_WithC#\obj\Debug\Scientific_Calculator_WithC#.pdb

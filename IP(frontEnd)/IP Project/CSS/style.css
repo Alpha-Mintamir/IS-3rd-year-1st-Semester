@@ -1,0 +1,162 @@
+#navbar-brand {
+    justify-content: center;
+}
+
+li {
+    font-size: larger;
+    font-weight: 500;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.footer h5 {
+    color: #007bff;
+}
+
+.footer a {
+    color: #007bff;
+}
+
+.footer a:hover {
+    text-decoration: none;
+    color: #0056b3;
+}
+
+.footer i {
+    margin-right: 5px;
+}
+
+.footer ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.footer hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-color: #d6d8db;
+}
+
+.footer p {
+    margin-bottom: 0.5rem;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background-image: url('/Images/coffeeeee.png');
+    background-size: cover;
+    color: #ffffff;
+    padding: 100px 0;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.jumbotron h1 {
+    font-size: 3.5em;
+}
+
+.jumbotron p {
+    font-size: 1.5em;
+}
+
+.jumbotron .btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+    padding: 15px 30px;
+    font-size: 1.5em;
+}
+
+.feature-box {
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.feature-box {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    height: 100%;
+}
+
+.feature-box h2 {
+    color: #007bff;
+}
+
+.feature-box p {
+    color: #6c757d;
+}
+
+.site-footer {
+    background-color: #f4f4f4;
+    padding: 40px 0;
+    color: #333;
+}
+
+.container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-md-4 {
+    width: 33.33%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+h2 {
+    color: #555;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #777;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: #333;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+.address {
+    font-style: normal;
+}
+
+.footer-bottom {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.footer-bottom p {
+    margin: 0;
+}

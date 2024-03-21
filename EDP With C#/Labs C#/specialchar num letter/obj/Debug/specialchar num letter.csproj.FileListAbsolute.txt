@@ -1,0 +1,8 @@
+C:\EDP\with C#\specialchar num letter\obj\Debug\specialchar num letter.csproj.AssemblyReference.cache
+C:\EDP\with C#\specialchar num letter\obj\Debug\specialchar num letter.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\specialchar num letter\obj\Debug\specialchar num letter.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\specialchar num letter\bin\Debug\specialchar num letter.exe.config
+C:\EDP\with C#\specialchar num letter\bin\Debug\specialchar num letter.exe
+C:\EDP\with C#\specialchar num letter\bin\Debug\specialchar num letter.pdb
+C:\EDP\with C#\specialchar num letter\obj\Debug\specialchar num letter.exe
+C:\EDP\with C#\specialchar num letter\obj\Debug\specialchar num letter.pdb

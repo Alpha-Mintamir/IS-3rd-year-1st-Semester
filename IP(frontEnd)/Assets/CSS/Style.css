@@ -1,0 +1,101 @@
+#header{
+  background-image: url(../image/purpledot.png);
+  background-repeat: repeat-x;
+  background-color: white;
+  opacity: 0.5;
+  background-position: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-position: top;
+  background-size: 20px;
+  text-align: center;
+  list-style-type: none;
+
+}
+
+body{
+  background-color: #d2dc9d;
+  background-image: url(../image/bullseye.png);
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+h1{
+  color: #993399;
+  padding-top: 4%;
+  text-align: center;
+
+}
+
+
+.label{
+  font-weight:bold;
+}
+
+ul {
+
+  list-style-type: none;
+}
+
+ul a{
+  color: #993399;
+  text-decoration: none;
+
+  
+}
+ul a:visited{
+  color: #937393;
+}
+
+dt{
+  font-weight: bold;
+  text-align: left;
+}
+
+h2{
+  letter-spacing: 0.5cqmax;
+  text-transform:uppercase;
+  color: #cc6600;
+  font-size: smaller;
+}
+
+dd{
+  text-align: left;
+}
+
+#appetizers{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#entrees{
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+#toast{
+  margin-left: 10%;
+  margin-right: 10%;  
+}
+
+#dessert{
+  margin-left: 10%;
+  margin-right: 10%; 
+}
+
+a{
+    color: #993399;
+    text-decoration: none;
+}
+
+p{
+  font-style: italic;
+}
+
+.warning{
+
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+}

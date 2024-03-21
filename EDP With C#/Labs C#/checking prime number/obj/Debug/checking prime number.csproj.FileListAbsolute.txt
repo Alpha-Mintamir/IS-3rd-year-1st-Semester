@@ -1,0 +1,11 @@
+C:\EDP\with C#\checking prime number\bin\Debug\checking prime number.exe.config
+C:\EDP\with C#\checking prime number\bin\Debug\checking prime number.exe
+C:\EDP\with C#\checking prime number\bin\Debug\checking prime number.pdb
+C:\EDP\with C#\checking prime number\obj\Debug\checking prime number.csproj.AssemblyReference.cache
+C:\EDP\with C#\checking prime number\obj\Debug\checking prime number.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\checking prime number\obj\Debug\checking_prime_number.Form1.resources
+C:\EDP\with C#\checking prime number\obj\Debug\checking_prime_number.Properties.Resources.resources
+C:\EDP\with C#\checking prime number\obj\Debug\checking prime number.csproj.GenerateResource.cache
+C:\EDP\with C#\checking prime number\obj\Debug\checking prime number.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\checking prime number\obj\Debug\checking prime number.exe
+C:\EDP\with C#\checking prime number\obj\Debug\checking prime number.pdb

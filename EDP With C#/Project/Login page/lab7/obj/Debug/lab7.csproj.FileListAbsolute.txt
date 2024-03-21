@@ -1,0 +1,11 @@
+C:\EDP\Project\Login page\lab7\bin\Debug\lab7.exe.config
+C:\EDP\Project\Login page\lab7\bin\Debug\lab7.exe
+C:\EDP\Project\Login page\lab7\bin\Debug\lab7.pdb
+C:\EDP\Project\Login page\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\EDP\Project\Login page\lab7\obj\Debug\lab7.csproj.SuggestedBindingRedirects.cache
+C:\EDP\Project\Login page\lab7\obj\Debug\lab7.Form1.resources
+C:\EDP\Project\Login page\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\EDP\Project\Login page\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\EDP\Project\Login page\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\EDP\Project\Login page\lab7\obj\Debug\lab7.exe
+C:\EDP\Project\Login page\lab7\obj\Debug\lab7.pdb

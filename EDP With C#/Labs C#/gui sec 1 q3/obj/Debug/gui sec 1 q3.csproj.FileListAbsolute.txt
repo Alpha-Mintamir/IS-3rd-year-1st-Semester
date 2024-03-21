@@ -1,0 +1,11 @@
+C:\EDP\with C#\gui sec 1 q3\bin\Debug\gui sec 1 q3.exe.config
+C:\EDP\with C#\gui sec 1 q3\bin\Debug\gui sec 1 q3.exe
+C:\EDP\with C#\gui sec 1 q3\bin\Debug\gui sec 1 q3.pdb
+C:\EDP\with C#\gui sec 1 q3\obj\Debug\gui sec 1 q3.csproj.AssemblyReference.cache
+C:\EDP\with C#\gui sec 1 q3\obj\Debug\gui sec 1 q3.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\gui sec 1 q3\obj\Debug\gui_sec_1_q3.Form1.resources
+C:\EDP\with C#\gui sec 1 q3\obj\Debug\gui_sec_1_q3.Properties.Resources.resources
+C:\EDP\with C#\gui sec 1 q3\obj\Debug\gui sec 1 q3.csproj.GenerateResource.cache
+C:\EDP\with C#\gui sec 1 q3\obj\Debug\gui sec 1 q3.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\gui sec 1 q3\obj\Debug\gui sec 1 q3.exe
+C:\EDP\with C#\gui sec 1 q3\obj\Debug\gui sec 1 q3.pdb

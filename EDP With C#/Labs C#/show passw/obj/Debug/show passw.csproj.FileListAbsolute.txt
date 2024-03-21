@@ -1,0 +1,11 @@
+C:\EDP\with C#\show passw\obj\Debug\show passw.csproj.AssemblyReference.cache
+C:\EDP\with C#\show passw\obj\Debug\show passw.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\show passw\obj\Debug\show_passw.Form1.resources
+C:\EDP\with C#\show passw\obj\Debug\show_passw.Properties.Resources.resources
+C:\EDP\with C#\show passw\obj\Debug\show passw.csproj.GenerateResource.cache
+C:\EDP\with C#\show passw\obj\Debug\show passw.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\show passw\bin\Debug\show passw.exe.config
+C:\EDP\with C#\show passw\bin\Debug\show passw.exe
+C:\EDP\with C#\show passw\bin\Debug\show passw.pdb
+C:\EDP\with C#\show passw\obj\Debug\show passw.exe
+C:\EDP\with C#\show passw\obj\Debug\show passw.pdb

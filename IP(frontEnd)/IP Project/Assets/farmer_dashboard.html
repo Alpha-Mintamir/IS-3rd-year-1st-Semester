@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/CSS/farmer_dashboard.css"> <!-- Link to your external CSS file -->
+    <link rel="stylesheet" href="/CSS/about_us.css">
+    <title>Farmer Dashboard</title>
+</head>
+
+    
+    <body>
+    
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3 menu">
+                    <h3 class="dashboard-title">Farmer Dashboard</h3>
+                    <a class="link-1" href="#" >Register Product</a>
+                    <a class="link-2" href="#">Explore Exporters</a>
+                    <a class="link-3" href="#" >Profile</a>
+                    <a class="link-4" href="#">About</a>
+                    <a href="/Assets/farmer_login.html"class="btn btn-logout">Logout</a>
+                    
+                </div>
+    
+
+
+
+
+                <div class="col-md-9 dashboard-content " >
+                    
+                    <div class="graphical-elements">
+                        <h4>Welcome TO LeArashu</h4>
+                    </div>
+
+                
+                    <div class="col-md-8 Product_Registration " id = "0">
+                        <h2>Product Registration</h2>
+                        <form>
+                          <div class="form-group">
+                            <label for="product">Product</label>
+                            <select class="form-control" id="product" required>
+                              <option value="coffee">Coffee</option>
+                              <option value="khat">Khat</option>
+                              <option value="selit">Selit</option>
+                            </select>
+                          </div>
+                    
+                          <div class="form-row">
+                            <div class="form-group col-md-6">
+                              <label for="quantity">Quantity</label>
+                              <input type="number" class="form-control" id="quantity" placeholder="Enter quantity" required>
+                            </div>
+                            <div class="form-group col-md-6">
+                              <label for="amountPerKg">Amount per Kilogram</label>
+                              <input type="number" class="form-control" id="amountPerKg" placeholder="Enter amount per kilogram" required>
+                            </div>
+                          </div>
+                    
+                          <div class="form-group">
+                            <label for="qualityLevel">Quality Level</label>
+                            <select class="form-control" id="qualityLevel" required>
+                              <option value="level1">Level 1</option>
+                              <option value="level2">Level 2</option>
+                              <option value="level3">Level 3</option>
+                            </select>
+                          </div>
+                    
+                          <div class="form-group">
+                            <label for="location">Location</label>
+                            <input type="text" class="form-control" id="location" placeholder="Enter location" required>
+                          </div>
+                    
+                          <div class="form-group">
+                            <label for="dateUpto">Product Available Up To</label>
+                            <input type="date" class="form-control" id="dateUpto" required>
+                          </div>
+                    
+                          <button type="submit" class="btn btn-primary" id="register_Product">Register Product</button>
+                        </form>
+                      </div>
+                    
+
+
+
+
+
+
+
+
+
+                      <div class="col-md-8 " id = "1">
+                        <div class="profile-header">
+                            <h2>Farmer Profile</h2>
+                        </div>
+                
+                        <div class="profile-image">
+                            <!-- Add your profile image source here -->
+                            <img src="/Images/profile picture.jpg" alt="Profile Image">
+                        </div>
+                
+                        <div class="profile-details">
+                            <h3>Alpha Lencho</h3>
+                            <p>Email: Alpha@gmail.com</p>
+                            <p>Location: Ethiopia</p>
+                            <p>Phone Number: 939109995</p>
+                            <p>Gender: Male</p>
+                            <p>Region: Amhara</p>
+                            <p>City: Bahirdar</p>
+                            <p>Preferred Product: Coffee</p>
+                            <!-- Additional profile details -->
+                            <p>Age: 30</p>
+                            <p>Experience: 50 years in farming</p>
+                            
+                    </div>
+                </div>
+                    
+
+
+
+
+                    <div class="col-md-8 Exporters_table" id = "2">
+                        <h2>Exporters Table</h2>
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Exporter Name</th>
+                                    <th>Exporting Product</th>
+                                    <th>Quantity needed</th>
+                                    <th>Quality Needed</th>
+                                    <th>Price per Kilogram (Birr)</th>
+                                    <th>Export To</th>
+                                    <th>Want the Product Up to</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Filled with 20 sample data entries -->
+                                <tr>
+                                    <td>Name1</td>
+                                    <td>Coffee</td>
+                                    <td>500 kg</td>
+                                    <td>Level 1</td>
+                                    <td>550 Birr</td>
+                                    <td>USA</td>
+                                    <td>2024-01-15</td>
+                                    <td><button class='btn btn-primary'>Sell</button></td>
+                                </tr>
+                                <tr>
+                                    <td>Name1</td>
+                                    <td>Coffee</td>
+                                    <td>500 kg</td>
+                                    <td>Level 1</td>
+                                    <td>550 Birr</td>
+                                    <td>USA</td>
+                                    <td>2024-01-15</td>
+                                    <td><button class='btn btn-primary'>Sell</button></td>
+                                </tr>
+                                <tr>
+                                    <td>Name1</td>
+                                    <td>Coffee</td>
+                                    <td>500 kg</td>
+                                    <td>Level 1</td>
+                                    <td>550 Birr</td>
+                                    <td>USA</td>
+                                    <td>2024-01-15</td>
+                                    <td><button class='btn btn-primary'>Sell</button></td>
+                                </tr>
+                                <tr>
+                                    <td>Name1</td>
+                                    <td>Coffee</td>
+                                    <td>500 kg</td>
+                                    <td>Level 1</td>
+                                    <td>550 Birr</td>
+                                    <td>USA</td>
+                                    <td>2024-01-15</td>
+                                    <td><button class='btn btn-primary'>Sell</button></td>
+                                </tr>
+                                <tr>
+                                    <td>Name1</td>
+                                    <td>Coffee</td>
+                                    <td>500 kg</td>
+                                    <td>Level 1</td>
+                                    <td>550 Birr</td>
+                                    <td>USA</td>
+                                    <td>2024-01-15</td>
+                                    <td><button class='btn btn-primary'>Sell</button></td>
+                                </tr>
+                                <tr>
+                                    <td>Name1</td>
+                                    <td>Coffee</td>
+                                    <td>500 kg</td>
+                                    <td>Level 1</td>
+                                    <td>550 Birr</td>
+                                    <td>USA</td>
+                                    <td>2024-01-15</td>
+                                    <td><button class='btn btn-primary'>Sell</button></td>
+                                </tr>
+                                <tr>
+                                    <td>Name1</td>
+                                    <td>Coffee</td>
+                                    <td>500 kg</td>
+                                    <td>Level 1</td>
+                                    <td>550 Birr</td>
+                                    <td>USA</td>
+                                    <td>2024-01-15</td>
+                                    <td><button class='btn btn-primary'>Sell</button></td>
+                                </tr>
+                                <tr>
+                                    <td>Name1</td>
+                                    <td>Coffee</td>
+                                    <td>500 kg</td>
+                                    <td>Level 1</td>
+                                    <td>550 Birr</td>
+                                    <td>USA</td>
+                                    <td>2024-01-15</td>
+                                    <td><button class='btn btn-primary'>Sell</button></td>
+                                </tr>
+                                <tr>
+                                    <td>Name1</td>
+                                    <td>Coffee</td>
+                                    <td>500 kg</td>
+                                    <td>Level 1</td>
+                                    <td>550 Birr</td>
+                                    <td>USA</td>
+                                    <td>2024-01-15</td>
+                                    <td><button class='btn btn-primary'>Sell</button></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+
+
+
+                    <div class="col-md-8 about us" id="3">
+
+                        <div class="abt_us">
+                            <h1>About Us</h1>
+                            <h3>Welcome to Learashu</h3>
+                        </div>
+                        
+                
+                        <!-- Mission and Vision Section -->
+                        <section id="mission-vision">
+                            <h2>Mission and Vision</h2>
+                            <div class="mission">
+                                <h3>Mission:</h3>
+                                <p>Our mission at Learashu is to revolutionize the agricultural supply chain by fostering direct connections between Ethiopian farmers and exporters. We are committed to empowering local farmers, expanding market access, and facilitating transparent and efficient trade transactions.</p>
+                            </div>
+                            <div class="vision">
+                                <h3>Vision:</h3>
+                                <p>Our vision is to build a sustainable and inclusive ecosystem that transforms the way agricultural products are sourced and exported. We aspire to be a catalyst for positive change, bridging the gap between farmers and exporters, and contributing to the economic growth of local communities.</p>
+                            </div>
+                        </section>
+                
+                        <!-- Core Values Section -->
+                        <section id="core-values">
+                            <h2>Core Values</h2>
+                            <ul>
+                                <li><strong>Empowerment:</strong> We empower farmers by providing them with a platform to showcase their products, connect with exporters, and gain access to broader markets.</li>
+                                <!-- Other core values list items -->
+                            </ul>
+                        </section>
+                
+                        <!-- Strategic Goals Section -->
+                        <section id="strategic-goals">
+                            <h2>Strategic Goals</h2>
+                            <ol>
+                                <li><strong>Connectivity:</strong> Enable seamless connectivity between farmers and exporters, fostering a network that transcends geographical boundaries.</li>
+                                <!-- Other strategic goals list items -->
+                            </ol>
+                        </section>
+                
+                        <!-- Team Information Section -->
+                        <section id="team-information">
+                            <h2>Meet the Developers</h2>
+                            <div class="team-member">
+                                <!-- Developer details and images -->
+                            </div>
+                
+                            <!-- Repeat the above section for other team members -->
+                
+                            <h2>Contact Information</h2>
+                            <p>Contact us at email: <a href="mailto:Learashu@gmail.com">Learashu@gmail.com</a></p>
+                            <p>Phone: +251994445412</p>
+                
+                            <!-- Other sections like Educational Background, Commitment to Excellence -->
+                
+                        </section>
+                
+                        
+
+
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+        <footer class="site-footer ">
+            <div class="container ftr">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h2>Quick Links</h2>
+                        <ul class="footer-links">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Products</a></li>
+                            <li><a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <h2>Contact Us</h2>
+                        <p>Feel free to reach out if you have any questions or inquiries.</p>
+                        <address>
+                            <strong>Email:</strong> info@Learashu.com<br>
+                            <strong>Phone:</strong> +251939109995
+                        </address>
+                    </div>
+                    <div class="col-md-4">
+                        <h2>Follow Us</h2>
+                        <ul class="social-icons">
+                            <li><a href="https://www.facebook.com/" class="facebook">facebook<i class="fab fa-facebook"></i></a></li>
+                            <li><a href="https://www.twitter.com/" class="twitter">twitter<i class="fab fa-twitter"></i></a></li>
+                            <li><a href="https://www.instagram.com/" class="instagram">instagram<i class="fab fa-instagram"></i></a></li>
+                            <li><a href="https://www.linkedin.com/" class="linkedin">linkedin<i class="fab fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p>&copy; 2024 Learashu. All rights reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        
+
+
+
+
+
+    <!-- Bootstrap JS and Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <!-- Custom JS -->
+    <script src="/JS/farmer_dashboard.js"></script>
+    <script src="/JS/farmer_profile.js"></script>
+
+
+
+
+
+
+
+
+</body>
+
+</html>

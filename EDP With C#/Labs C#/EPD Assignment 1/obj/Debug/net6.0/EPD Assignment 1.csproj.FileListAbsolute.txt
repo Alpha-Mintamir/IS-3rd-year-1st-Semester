@@ -1,0 +1,15 @@
+C:\EDP\with C#\EPD Assignment 1\bin\Debug\net6.0\EPD Assignment 1.exe
+C:\EDP\with C#\EPD Assignment 1\bin\Debug\net6.0\EPD Assignment 1.deps.json
+C:\EDP\with C#\EPD Assignment 1\bin\Debug\net6.0\EPD Assignment 1.runtimeconfig.json
+C:\EDP\with C#\EPD Assignment 1\bin\Debug\net6.0\EPD Assignment 1.dll
+C:\EDP\with C#\EPD Assignment 1\bin\Debug\net6.0\EPD Assignment 1.pdb
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\EPD Assignment 1.csproj.AssemblyReference.cache
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\EPD Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\EPD Assignment 1.AssemblyInfoInputs.cache
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\EPD Assignment 1.AssemblyInfo.cs
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\EPD Assignment 1.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\EPD Assignment 1.dll
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\refint\EPD Assignment 1.dll
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\EPD Assignment 1.pdb
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\EPD Assignment 1.genruntimeconfig.cache
+C:\EDP\with C#\EPD Assignment 1\obj\Debug\net6.0\ref\EPD Assignment 1.dll

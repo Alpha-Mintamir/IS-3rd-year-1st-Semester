@@ -1,0 +1,11 @@
+C:\EDP\with C#\Modified game\bin\Debug\Modified game.exe.config
+C:\EDP\with C#\Modified game\bin\Debug\Modified game.exe
+C:\EDP\with C#\Modified game\bin\Debug\Modified game.pdb
+C:\EDP\with C#\Modified game\obj\Debug\Modified game.csproj.AssemblyReference.cache
+C:\EDP\with C#\Modified game\obj\Debug\Modified game.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\Modified game\obj\Debug\Modified_game.Form1.resources
+C:\EDP\with C#\Modified game\obj\Debug\Modified_game.Properties.Resources.resources
+C:\EDP\with C#\Modified game\obj\Debug\Modified game.csproj.GenerateResource.cache
+C:\EDP\with C#\Modified game\obj\Debug\Modified game.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\Modified game\obj\Debug\Modified game.exe
+C:\EDP\with C#\Modified game\obj\Debug\Modified game.pdb

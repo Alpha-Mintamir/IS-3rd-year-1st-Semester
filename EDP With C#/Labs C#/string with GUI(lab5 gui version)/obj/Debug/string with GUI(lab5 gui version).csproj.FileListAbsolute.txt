@@ -1,0 +1,11 @@
+C:\EDP\with C#\string with GUI(lab5 gui version)\bin\Debug\string with GUI(lab5 gui version).exe.config
+C:\EDP\with C#\string with GUI(lab5 gui version)\bin\Debug\string with GUI(lab5 gui version).exe
+C:\EDP\with C#\string with GUI(lab5 gui version)\bin\Debug\string with GUI(lab5 gui version).pdb
+C:\EDP\with C#\string with GUI(lab5 gui version)\obj\Debug\string with GUI(lab5 gui version).csproj.AssemblyReference.cache
+C:\EDP\with C#\string with GUI(lab5 gui version)\obj\Debug\string with GUI(lab5 gui version).csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\string with GUI(lab5 gui version)\obj\Debug\string_with_GUI_lab5_gui_version_.Form1.resources
+C:\EDP\with C#\string with GUI(lab5 gui version)\obj\Debug\string_with_GUI_lab5_gui_version_.Properties.Resources.resources
+C:\EDP\with C#\string with GUI(lab5 gui version)\obj\Debug\string with GUI(lab5 gui version).csproj.GenerateResource.cache
+C:\EDP\with C#\string with GUI(lab5 gui version)\obj\Debug\string with GUI(lab5 gui version).csproj.CoreCompileInputs.cache
+C:\EDP\with C#\string with GUI(lab5 gui version)\obj\Debug\string with GUI(lab5 gui version).exe
+C:\EDP\with C#\string with GUI(lab5 gui version)\obj\Debug\string with GUI(lab5 gui version).pdb

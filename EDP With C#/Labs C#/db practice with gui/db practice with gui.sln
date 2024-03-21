@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "db practice with gui", "db practice with gui.csproj", "{3B075C4A-FF8E-463F-AD67-DEE11989C254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B075C4A-FF8E-463F-AD67-DEE11989C254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B075C4A-FF8E-463F-AD67-DEE11989C254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B075C4A-FF8E-463F-AD67-DEE11989C254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B075C4A-FF8E-463F-AD67-DEE11989C254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9308FCEB-0E80-4641-9E18-A1FBD506C0E7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,129 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    color: #333;
+    background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.8);
+    
+
+}
+header {
+    background-color: rgb(26, 35, 126);
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+h1,h2, h3 {
+    color: #4CAF50;
+}
+
+ section, footer {
+    margin: 0 auto;
+    padding: 20px;
+}
+#mission-vision{
+    margin-top: 100px;
+    padding: 40px;
+  text-align: center;
+}
+.mission,
+.vision {
+  margin-bottom: 40px;
+}
+
+.mission h3,
+.vision h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.mission p,
+.vision p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+#core-values {
+    padding: 40px;
+  }
+  ul {
+    list-style-type: none;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  li {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  strong {
+    font-weight: bold;
+  }
+  #strategic-goals {
+    background-color: #fff;
+    padding: 40px;
+  }
+section {
+    margin-top: 20px;
+}
+  ol {
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  #team-information {
+    
+    padding: 40px;
+    text-align: center;
+  }
+  .team-member {
+    margin-bottom: 40px;
+  }
+  
+  .member-details {
+    margin-bottom: 20px;
+  }
+  .team-member h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .team-member p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 5px;
+  }
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }  
+#faqs {
+  background-color: #fff;
+  padding: 40px;
+}
+
+#faqs h3 {
+  margin-bottom: 20px;
+}
+
+#faqs ol {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+   
+    bottom: 0;
+    width: 100%;
+}

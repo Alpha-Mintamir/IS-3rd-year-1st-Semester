@@ -1,0 +1,63 @@
+.containerr{
+    display: grid;
+    grid-template: 
+    "block-1" 1fr
+    "block-2" 1fr
+    "block-3" 1fr
+    /1fr;
+    grid-gap: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+.block-1{
+    grid-area: block-1;
+    border: 2px solid;
+    background-color: blue;
+    padding: 4%;
+    
+}
+
+
+.box-2{
+    grid-area: box-2;
+    border: 2px solid;
+
+}
+
+.box-3{
+    grid-area: box-3;
+    border: 2px solid;
+}
+
+.block-2{
+    grid-area: block-2;
+    border: 2px solid;
+    background-color: green;
+    display: grid;
+    grid-template: "box-2 box-3"1fr
+                    /2fr 1fr;
+}
+
+.block-3{
+    grid-area: block-3;
+    border: 2px solid;
+    background-color: chartreuse;
+    display: grid;
+    grid-template: "box-4 box-5"1fr
+                    /1fr 2fr;
+}
+
+.box-4{
+    grid-area: box-4;
+    border: 2px solid;
+}
+
+.box-5{
+    grid-area: box-5;
+    border: 2px solid;
+}
+
+.varr {
+    font-variant: small-caps;
+  }

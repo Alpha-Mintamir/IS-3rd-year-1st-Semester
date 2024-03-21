@@ -1,0 +1,301 @@
+/* farmer_dashboard.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-fluid {
+    padding-bottom: 10px; /* Adjust padding to accommodate the footer height */
+}
+
+.menu {
+    background-color: #28a745; /* Farmer's brand color */
+    padding: 20px;
+    color: #fff; /* White text color */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-title {
+    color: #fff; /* White text color */
+    font-size: 24px; /* Larger font size for the title */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Add shadow to the title */
+    margin-bottom: 20px; /* Increase margin for separation */
+}
+
+.menu a {
+    color: #fff; /* White text color for menu items */
+    text-decoration: none;
+    padding: 15px 0;
+    font-size: 18px; /* Larger font size for menu items */
+    transition: background-color 0.3s; /* Add smooth transition for background color change on hover */
+}
+
+.menu a:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Lighten background color on hover */
+}
+
+.btn-logout {
+    margin-top: auto;
+    background-color: #dc3545; /* Red color for logout button */
+    border-color: #dc3545;
+    font-size: 18px; /* Larger font size for the logout button */
+}
+
+.btn-logout:hover {
+    background-color: #c82333; /* Darken background color on hover */
+}
+
+#darkModeToggle {
+    background-color: #6c757d; /* Gray color for dark mode toggle button */
+    border-color: #6c757d;
+    color: #fff; /* White text color for the toggle button */
+    font-size: 16px; /* Font size for the toggle button */
+}
+
+#darkModeToggle:hover {
+    background-color: #5a6268; /* Darken background color on hover */
+}
+
+.graphical-elements {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ffffff; /* White background for graphical elements */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dark-mode .menu {
+    background-color: #343a40; /* Dark background color for dark mode */
+}
+
+.dark-mode .menu a {
+    color: #fff; /* White text color for menu items in dark mode */
+}
+
+.dark-mode .btn-logout {
+    background-color: #dc3545; /* Red color for logout button in dark mode */
+    border-color: #dc3545;
+    color: #fff; /* White text color for logout button in dark mode */
+}
+
+.dark-mode #darkModeToggle {
+    background-color: #6c757d; /* Gray color for dark mode toggle button in dark mode */
+    border-color: #6c757d;
+    color: #fff; /* White text color for the toggle button in dark mode */
+}
+
+.dark-mode #darkModeToggle:hover {
+    background-color: #5a6268; /* Darken background color on hover in dark mode */
+}
+
+
+
+.site-footer {
+    background-color: #343a40; /* Dark background color for the footer */
+    color: #fff; /* White text color for the footer content */
+    padding: 40px 0;
+}
+
+.footer-links a {
+    color: #fff; /* White text color for footer links */
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: none;
+}
+
+.ftr{
+    background-color: #343a40;
+
+}
+
+.footer-bottom p {
+    margin-bottom: 0; /* Remove default margin for the copyright text */
+}
+
+
+.dashboard-title{
+	font-size: xx-large;
+}
+
+
+/* Add this to your farmer_dashboard.css or a separate CSS file */
+.graphical-elements h4 {
+    opacity: 0; /* Initially set opacity to 0 */
+    animation: fadeInUp 1s ease-out forwards; /* Use the fadeInUp animation with 1-second duration and ease-out timing function */
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+.graphical-elements h4 {
+	font-size: xx-large;
+	text-align: center;
+}
+
+.graphical-elements
+
+
+
+
+/* Farmer Register Product */
+
+
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1); /* White container background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h2 {
+    text-align: center;
+    color: #17a2b8; /* Brand color: Turquoise */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #17a2b8; /* Brand color: Turquoise */
+    border-color: #17a2b8;
+}
+
+.btn-primary:hover {
+    background-color: #138496; /* Darker shade on hover */
+}
+
+/* Optional: Add a bit of space above the "Register Product" button */
+.form-group:last-child {
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+/* farmer_profile.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.profile-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ffffff; /* White container background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.profile-header {
+    text-align: center;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profile-details {
+    text-align: left;
+    font-size: 16px; /* Adjust the font size as needed */
+}
+
+.profile-details h3 {
+    color: #28a745; /* Green text color */
+    margin-bottom: 10px;
+    font-weight: bold; /* Bold text */
+    font-size: 24px; /* Larger font size */
+}
+
+.profile-details p {
+    color: #6c757d; /* Gray text color */
+    margin-bottom: 8px;
+    font-weight: bold; /* Bold text */
+}
+
+.btn-edit-profile {
+    background-color: #17a2b8; /* Blue color for Edit Profile button */
+    border-color: #17a2b8;
+    color: #ffffff; /* White text color */
+    margin-top: 20px;
+    font-weight: bold; /* Bold text */
+    font-size: 16px; /* Larger font size */
+}
+
+.btn-edit-profile:hover {
+    background-color: #138496; /* Darker shade on hover */
+}
+
+/* Updated styling for the registered products section */
+#registered-products {
+    margin-top: 20px;
+    background-color: #f2f8f7; /* Light green background */
+    padding: 15px;
+    border-radius: 8px;
+}
+
+#registered-products h4 {
+    color: #28a745; /* Green text color */
+    margin-bottom: 10px;
+    font-weight: bold; /* Bold text */
+    font-size: 20px; /* Larger font size */
+}
+
+#registered-products ul {
+    list-style: none;
+    padding: 0;
+}
+
+#registered-products li {
+    color: #6c757d; /* Gray text color */
+    margin-bottom: 8px;
+    font-weight: bold; /* Bold text */
+    font-size: 16px; /* Larger font size */
+}
+
+.social-icons li a{
+    color: rgb(210, 208, 208);
+    text-decoration: none;
+    font-style: italic;
+    
+}

@@ -1,0 +1,15 @@
+C:\EDP\with C#\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\EDP\with C#\TrackerUI\bin\Debug\TrackerUI.exe
+C:\EDP\with C#\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.exe
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.createTeamForm.resources
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\EDP\with C#\TrackerUI\obj\Debug\TrackerUI.tournamentDashboardForm.resources

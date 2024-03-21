@@ -1,0 +1,11 @@
+C:\EDP\with C#\db practice with gui\bin\Debug\db practice with gui.exe.config
+C:\EDP\with C#\db practice with gui\bin\Debug\db practice with gui.exe
+C:\EDP\with C#\db practice with gui\bin\Debug\db practice with gui.pdb
+C:\EDP\with C#\db practice with gui\obj\Debug\db practice with gui.csproj.AssemblyReference.cache
+C:\EDP\with C#\db practice with gui\obj\Debug\db practice with gui.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\db practice with gui\obj\Debug\db_practice_with_gui.Form1.resources
+C:\EDP\with C#\db practice with gui\obj\Debug\db_practice_with_gui.Properties.Resources.resources
+C:\EDP\with C#\db practice with gui\obj\Debug\db practice with gui.csproj.GenerateResource.cache
+C:\EDP\with C#\db practice with gui\obj\Debug\db practice with gui.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\db practice with gui\obj\Debug\db practice with gui.exe
+C:\EDP\with C#\db practice with gui\obj\Debug\db practice with gui.pdb

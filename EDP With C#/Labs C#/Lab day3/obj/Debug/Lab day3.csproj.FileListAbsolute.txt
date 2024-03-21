@@ -1,0 +1,11 @@
+C:\EDP\with C#\Lab day3\bin\Debug\Lab day3.exe.config
+C:\EDP\with C#\Lab day3\bin\Debug\Lab day3.exe
+C:\EDP\with C#\Lab day3\bin\Debug\Lab day3.pdb
+C:\EDP\with C#\Lab day3\obj\Debug\Lab day3.csproj.AssemblyReference.cache
+C:\EDP\with C#\Lab day3\obj\Debug\Lab day3.csproj.SuggestedBindingRedirects.cache
+C:\EDP\with C#\Lab day3\obj\Debug\Lab_day3.Form1.resources
+C:\EDP\with C#\Lab day3\obj\Debug\Lab_day3.Properties.Resources.resources
+C:\EDP\with C#\Lab day3\obj\Debug\Lab day3.csproj.GenerateResource.cache
+C:\EDP\with C#\Lab day3\obj\Debug\Lab day3.csproj.CoreCompileInputs.cache
+C:\EDP\with C#\Lab day3\obj\Debug\Lab day3.exe
+C:\EDP\with C#\Lab day3\obj\Debug\Lab day3.pdb

@@ -1,0 +1,427 @@
+﻿namespace Worksheet_1
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            Adder = new GroupBox();
+            adderLabel3 = new Label();
+            adderBotton = new Button();
+            adderLabel2 = new Label();
+            adderTextBox1 = new TextBox();
+            adderLabel1 = new Label();
+            adderTextBox3 = new TextBox();
+            adderTextBox2 = new TextBox();
+            Calculator = new GroupBox();
+            calculatorLabel2 = new Label();
+            calculatorLabel1 = new Label();
+            calculatorLabel3 = new Label();
+            calculatorTextBox3 = new TextBox();
+            calculatorTextBox2 = new TextBox();
+            calculatorTextBox1 = new TextBox();
+            Temp = new GroupBox();
+            tempLabel3 = new Label();
+            tempButton1 = new Button();
+            tempLabel2 = new Label();
+            tempTextBox1 = new TextBox();
+            tempLabel1 = new Label();
+            tempTextBox3 = new TextBox();
+            tempTextBox2 = new TextBox();
+            Factorial = new GroupBox();
+            factorialTextBox2 = new TextBox();
+            factorialLabel2 = new Label();
+            factorialButton1 = new Button();
+            label2 = new Label();
+            factorialTextBox1 = new TextBox();
+            factorialLabel1 = new Label();
+            label1 = new Label();
+            Adder.SuspendLayout();
+            Calculator.SuspendLayout();
+            Temp.SuspendLayout();
+            Factorial.SuspendLayout();
+            SuspendLayout();
+            // 
+            // Adder
+            // 
+            Adder.BackColor = Color.Yellow;
+            Adder.BackgroundImageLayout = ImageLayout.None;
+            Adder.Controls.Add(adderLabel3);
+            Adder.Controls.Add(adderBotton);
+            Adder.Controls.Add(adderLabel2);
+            Adder.Controls.Add(adderTextBox1);
+            Adder.Controls.Add(adderLabel1);
+            Adder.Controls.Add(adderTextBox3);
+            Adder.Controls.Add(adderTextBox2);
+            Adder.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            Adder.Location = new Point(76, 25);
+            Adder.Name = "Adder";
+            Adder.Size = new Size(300, 348);
+            Adder.TabIndex = 1;
+            Adder.TabStop = false;
+            Adder.Text = "Adder";
+            // 
+            // adderLabel3
+            // 
+            adderLabel3.AutoSize = true;
+            adderLabel3.Location = new Point(18, 193);
+            adderLabel3.Name = "adderLabel3";
+            adderLabel3.Size = new Size(60, 28);
+            adderLabel3.TabIndex = 3;
+            adderLabel3.Text = "result";
+            // 
+            // adderBotton
+            // 
+            adderBotton.BackColor = Color.LawnGreen;
+            adderBotton.Location = new Point(182, 116);
+            adderBotton.Name = "adderBotton";
+            adderBotton.Size = new Size(94, 46);
+            adderBotton.TabIndex = 4;
+            adderBotton.Text = "Add";
+            adderBotton.UseVisualStyleBackColor = false;
+            // 
+            // adderLabel2
+            // 
+            adderLabel2.AutoSize = true;
+            adderLabel2.Location = new Point(-1, 79);
+            adderLabel2.Name = "adderLabel2";
+            adderLabel2.Size = new Size(150, 28);
+            adderLabel2.TabIndex = 2;
+            adderLabel2.Text = "Second number";
+            // 
+            // adderTextBox1
+            // 
+            adderTextBox1.Location = new Point(151, 29);
+            adderTextBox1.Name = "adderTextBox1";
+            adderTextBox1.Size = new Size(125, 34);
+            adderTextBox1.TabIndex = 1;
+            // 
+            // adderLabel1
+            // 
+            adderLabel1.AutoSize = true;
+            adderLabel1.Location = new Point(6, 29);
+            adderLabel1.Name = "adderLabel1";
+            adderLabel1.Size = new Size(122, 28);
+            adderLabel1.TabIndex = 1;
+            adderLabel1.Text = "First number";
+            // 
+            // adderTextBox3
+            // 
+            adderTextBox3.Location = new Point(90, 190);
+            adderTextBox3.Name = "adderTextBox3";
+            adderTextBox3.Size = new Size(125, 34);
+            adderTextBox3.TabIndex = 3;
+            adderTextBox3.TextChanged += adderResultLabel_TextChanged;
+            // 
+            // adderTextBox2
+            // 
+            adderTextBox2.Location = new Point(151, 76);
+            adderTextBox2.Name = "adderTextBox2";
+            adderTextBox2.Size = new Size(125, 34);
+            adderTextBox2.TabIndex = 2;
+            // 
+            // Calculator
+            // 
+            Calculator.BackColor = Color.Yellow;
+            Calculator.Controls.Add(label1);
+            Calculator.Controls.Add(calculatorLabel2);
+            Calculator.Controls.Add(calculatorLabel1);
+            Calculator.Controls.Add(calculatorLabel3);
+            Calculator.Controls.Add(calculatorTextBox3);
+            Calculator.Controls.Add(calculatorTextBox2);
+            Calculator.Controls.Add(calculatorTextBox1);
+            Calculator.Font = new Font("Segoe UI", 13F, FontStyle.Regular, GraphicsUnit.Point);
+            Calculator.Location = new Point(511, 25);
+            Calculator.Name = "Calculator";
+            Calculator.Size = new Size(340, 348);
+            Calculator.TabIndex = 2;
+            Calculator.TabStop = false;
+            Calculator.Text = "Calculator";
+            // 
+            // calculatorLabel2
+            // 
+            calculatorLabel2.AutoSize = true;
+            calculatorLabel2.Location = new Point(0, 76);
+            calculatorLabel2.Name = "calculatorLabel2";
+            calculatorLabel2.Size = new Size(167, 30);
+            calculatorLabel2.TabIndex = 7;
+            calculatorLabel2.Text = "Second number";
+            calculatorLabel2.Click += calculatorLabel2_Click;
+            // 
+            // calculatorLabel1
+            // 
+            calculatorLabel1.AutoSize = true;
+            calculatorLabel1.Location = new Point(6, 33);
+            calculatorLabel1.Name = "calculatorLabel1";
+            calculatorLabel1.Size = new Size(135, 30);
+            calculatorLabel1.TabIndex = 6;
+            calculatorLabel1.Text = "First number";
+            calculatorLabel1.Click += label5_Click;
+            // 
+            // calculatorLabel3
+            // 
+            calculatorLabel3.AutoSize = true;
+            calculatorLabel3.Location = new Point(23, 295);
+            calculatorLabel3.Name = "calculatorLabel3";
+            calculatorLabel3.Size = new Size(66, 30);
+            calculatorLabel3.TabIndex = 5;
+            calculatorLabel3.Text = "result";
+            // 
+            // calculatorTextBox3
+            // 
+            calculatorTextBox3.Location = new Point(104, 295);
+            calculatorTextBox3.Name = "calculatorTextBox3";
+            calculatorTextBox3.Size = new Size(125, 36);
+            calculatorTextBox3.TabIndex = 2;
+            // 
+            // calculatorTextBox2
+            // 
+            calculatorTextBox2.Location = new Point(173, 71);
+            calculatorTextBox2.Name = "calculatorTextBox2";
+            calculatorTextBox2.Size = new Size(125, 36);
+            calculatorTextBox2.TabIndex = 1;
+            // 
+            // calculatorTextBox1
+            // 
+            calculatorTextBox1.Location = new Point(173, 30);
+            calculatorTextBox1.Name = "calculatorTextBox1";
+            calculatorTextBox1.Size = new Size(125, 36);
+            calculatorTextBox1.TabIndex = 0;
+            // 
+            // Temp
+            // 
+            Temp.BackColor = Color.Yellow;
+            Temp.BackgroundImageLayout = ImageLayout.None;
+            Temp.Controls.Add(tempLabel3);
+            Temp.Controls.Add(tempButton1);
+            Temp.Controls.Add(tempLabel2);
+            Temp.Controls.Add(tempTextBox1);
+            Temp.Controls.Add(tempLabel1);
+            Temp.Controls.Add(tempTextBox3);
+            Temp.Controls.Add(tempTextBox2);
+            Temp.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            Temp.Location = new Point(76, 470);
+            Temp.Name = "Temp";
+            Temp.Size = new Size(390, 348);
+            Temp.TabIndex = 3;
+            Temp.TabStop = false;
+            Temp.Text = "Temprature Convertor";
+            // 
+            // tempLabel3
+            // 
+            tempLabel3.AutoSize = true;
+            tempLabel3.Location = new Point(18, 285);
+            tempLabel3.Name = "tempLabel3";
+            tempLabel3.Size = new Size(60, 28);
+            tempLabel3.TabIndex = 3;
+            tempLabel3.Text = "result";
+            // 
+            // tempButton1
+            // 
+            tempButton1.BackColor = Color.LawnGreen;
+            tempButton1.Location = new Point(90, 195);
+            tempButton1.Name = "tempButton1";
+            tempButton1.Size = new Size(94, 46);
+            tempButton1.TabIndex = 4;
+            tempButton1.Text = "Convert";
+            tempButton1.UseVisualStyleBackColor = false;
+            // 
+            // tempLabel2
+            // 
+            tempLabel2.AutoSize = true;
+            tempLabel2.Location = new Point(48, 115);
+            tempLabel2.Name = "tempLabel2";
+            tempLabel2.Size = new Size(176, 28);
+            tempLabel2.TabIndex = 2;
+            tempLabel2.Text = "Temp in Fahrenheit";
+            // 
+            // tempTextBox1
+            // 
+            tempTextBox1.Location = new Point(60, 69);
+            tempTextBox1.Name = "tempTextBox1";
+            tempTextBox1.Size = new Size(181, 34);
+            tempTextBox1.TabIndex = 1;
+            // 
+            // tempLabel1
+            // 
+            tempLabel1.AutoSize = true;
+            tempLabel1.Location = new Point(48, 38);
+            tempLabel1.Name = "tempLabel1";
+            tempLabel1.Size = new Size(207, 28);
+            tempLabel1.TabIndex = 1;
+            tempLabel1.Text = "Temp in degree celsius";
+            // 
+            // tempTextBox3
+            // 
+            tempTextBox3.Location = new Point(90, 279);
+            tempTextBox3.Name = "tempTextBox3";
+            tempTextBox3.Size = new Size(125, 34);
+            tempTextBox3.TabIndex = 3;
+            // 
+            // tempTextBox2
+            // 
+            tempTextBox2.Location = new Point(60, 146);
+            tempTextBox2.Name = "tempTextBox2";
+            tempTextBox2.Size = new Size(181, 34);
+            tempTextBox2.TabIndex = 2;
+            // 
+            // Factorial
+            // 
+            Factorial.BackColor = Color.Yellow;
+            Factorial.BackgroundImageLayout = ImageLayout.None;
+            Factorial.Controls.Add(factorialTextBox2);
+            Factorial.Controls.Add(factorialLabel2);
+            Factorial.Controls.Add(factorialButton1);
+            Factorial.Controls.Add(label2);
+            Factorial.Controls.Add(factorialTextBox1);
+            Factorial.Controls.Add(factorialLabel1);
+            Factorial.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            Factorial.Location = new Point(511, 470);
+            Factorial.Name = "Factorial";
+            Factorial.Size = new Size(340, 348);
+            Factorial.TabIndex = 4;
+            Factorial.TabStop = false;
+            Factorial.Text = "Factorial";
+            // 
+            // factorialTextBox2
+            // 
+            factorialTextBox2.Location = new Point(89, 236);
+            factorialTextBox2.Name = "factorialTextBox2";
+            factorialTextBox2.Size = new Size(135, 34);
+            factorialTextBox2.TabIndex = 5;
+            // 
+            // factorialLabel2
+            // 
+            factorialLabel2.AutoSize = true;
+            factorialLabel2.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
+            factorialLabel2.Location = new Point(10, 238);
+            factorialLabel2.Name = "factorialLabel2";
+            factorialLabel2.Size = new Size(73, 32);
+            factorialLabel2.TabIndex = 3;
+            factorialLabel2.Text = "result";
+            // 
+            // factorialButton1
+            // 
+            factorialButton1.BackColor = Color.LawnGreen;
+            factorialButton1.Location = new Point(104, 134);
+            factorialButton1.Name = "factorialButton1";
+            factorialButton1.RightToLeft = RightToLeft.No;
+            factorialButton1.Size = new Size(102, 46);
+            factorialButton1.TabIndex = 4;
+            factorialButton1.Text = "Calculate";
+            factorialButton1.UseVisualStyleBackColor = false;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(48, 115);
+            label2.Name = "label2";
+            label2.Size = new Size(0, 28);
+            label2.TabIndex = 2;
+            // 
+            // factorialTextBox1
+            // 
+            factorialTextBox1.Location = new Point(60, 69);
+            factorialTextBox1.Name = "factorialTextBox1";
+            factorialTextBox1.Size = new Size(181, 34);
+            factorialTextBox1.TabIndex = 1;
+            // 
+            // factorialLabel1
+            // 
+            factorialLabel1.AutoSize = true;
+            factorialLabel1.Location = new Point(58, 38);
+            factorialLabel1.Name = "factorialLabel1";
+            factorialLabel1.Size = new Size(166, 28);
+            factorialLabel1.TabIndex = 1;
+            factorialLabel1.Text = "Enter The number";
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(6, 150);
+            label1.Name = "label1";
+            label1.Size = new Size(167, 30);
+            label1.TabIndex = 8;
+            label1.Text = "Second number";
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.BurlyWood;
+            ClientSize = new Size(896, 1055);
+            Controls.Add(Factorial);
+            Controls.Add(Temp);
+            Controls.Add(Calculator);
+            Controls.Add(Adder);
+            Name = "Form1";
+            Text = "Form1";
+            Adder.ResumeLayout(false);
+            Adder.PerformLayout();
+            Calculator.ResumeLayout(false);
+            Calculator.PerformLayout();
+            Temp.ResumeLayout(false);
+            Temp.PerformLayout();
+            Factorial.ResumeLayout(false);
+            Factorial.PerformLayout();
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private GroupBox Adder;
+        private Label adderLabel3;
+        private Button adderBotton;
+        private Label adderLabel2;
+        private TextBox adderTextBox1;
+        private Label adderLabel1;
+        private TextBox adderTextBox3;
+        private TextBox adderTextBox2;
+        private GroupBox Calculator;
+        private Label calculatorLabel2;
+        private Label calculatorLabel1;
+        private Label calculatorLabel3;
+        private TextBox calculatorTextBox3;
+        private TextBox calculatorTextBox2;
+        private TextBox calculatorTextBox1;
+        private GroupBox Temp;
+        private Label tempLabel3;
+        private Button tempButton1;
+        private Label tempLabel2;
+        private TextBox tempTextBox1;
+        private Label tempLabel1;
+        private TextBox tempTextBox3;
+        private TextBox tempTextBox2;
+        private GroupBox Factorial;
+        private Label factorialLabel2;
+        private Button factorialButton1;
+        private Label label2;
+        private TextBox factorialTextBox1;
+        private Label factorialLabel1;
+        private TextBox factorialTextBox2;
+        private Label label1;
+    }
+}

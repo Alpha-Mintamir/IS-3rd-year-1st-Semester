@@ -1,0 +1,11 @@
+C:\EDP\Project\Login page\login\bin\Debug\login.exe.config
+C:\EDP\Project\Login page\login\bin\Debug\login.exe
+C:\EDP\Project\Login page\login\bin\Debug\login.pdb
+C:\EDP\Project\Login page\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\EDP\Project\Login page\login\obj\Debug\login.csproj.SuggestedBindingRedirects.cache
+C:\EDP\Project\Login page\login\obj\Debug\login.Properties.Resources.resources
+C:\EDP\Project\Login page\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\EDP\Project\Login page\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\EDP\Project\Login page\login\obj\Debug\login.exe
+C:\EDP\Project\Login page\login\obj\Debug\login.pdb
+C:\EDP\Project\Login page\login\obj\Debug\login.homePage.resources
